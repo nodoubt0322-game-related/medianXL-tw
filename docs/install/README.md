@@ -3,9 +3,11 @@
 ## 原版 d2 下載
 
 google 搜尋: 魔電 下載
+
 ![搜魔電](./images/image05.png)
 
 推薦下載 d2 硬碟版
+
 ![下載硬碟版](./images/image06.png)
 
 10 個檔下載完，安裝 7-zip  
@@ -16,6 +18,7 @@ google 搜尋: 魔電 下載
 
 到[官方網站](https://www.median-xl.com/)  
 下載魔電啟動器, 並安裝
+
 ![install](./images/image01.png)
 執行魔電啟動器後  
 然後再按右下角的 update  
@@ -25,6 +28,7 @@ google 搜尋: 魔電 下載
 
 [下載中文化](https://drive.google.com/drive/folders/1BaqqQl0il6Gsm-zw7G9fope7qcjy1B4s)  
 把 lang-zh.mpq 複製到 d2 目錄
+
 ![lang-zh.mpq](./images/image02.png)
 
 開啟魔電啟動器  
