@@ -13,6 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=16.5.0",
+    "npm": ">=7.21.0"
+  },  
   "dependencies": {
     "@vuepress/plugin-google-analytics": "^1.5.2",
     "vuepress": "^1.8.2"
