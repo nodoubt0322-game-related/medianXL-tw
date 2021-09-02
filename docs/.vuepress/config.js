@@ -30,6 +30,7 @@ module.exports = {
       "/eq/",
       "/speed/",
       "/morphspeed/",
+      "/ww/",
       "/bn/",
       "/occultEffigies/",
       "/umo/",
