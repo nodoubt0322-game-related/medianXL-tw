@@ -26,6 +26,7 @@ module.exports = {
       "/130uber/",
       "/guide/",
       "/trade/",
+      "/mf/",
       "/eq/",
       "/speed/",
       "/morphspeed/",
