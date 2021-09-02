@@ -28,6 +28,7 @@ module.exports = {
       "/trade/",
       "/mf/",
       "/eq/",
+      "/material/",
       "/speed/",
       "/morphspeed/",
       "/ww/",
