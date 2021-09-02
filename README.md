@@ -12,6 +12,7 @@ npm run build
 
 /docs/.vuepress/dist is the folder we want to deploy  
 netlify will auto-deploy when pushing to github after npm run build
+so npm run build, then git push origin master
 
 ## config
 
