@@ -21,6 +21,7 @@ module.exports = {
       "/cube/",
       "/d2status/",
       "/gem/",
+      "/rune/",
       "/shrine/",
       "/umo/", 
       "/occultEffigies/",      
