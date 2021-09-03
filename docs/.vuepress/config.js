@@ -28,6 +28,7 @@ module.exports = {
       "/130uber/",
       "/trade/",
       "/mf/",
+      "/spellDamage/",
       "/eq/",
       "/material/",
       "/speed/",
