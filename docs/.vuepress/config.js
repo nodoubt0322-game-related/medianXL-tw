@@ -20,6 +20,7 @@ module.exports = {
       "/merc/",
       "/cube/",
       "/d2status/",
+      "/gem/",
       "/shrine/",
       "/umo/", 
       "/occultEffigies/",      
