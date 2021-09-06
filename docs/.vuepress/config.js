@@ -40,7 +40,8 @@ module.exports = {
       "/material/",
       "/morphspeed/",
       "/ww/",
-      "/bn/",      
+      "/bn/",
+      "/efficiency/"      
     ],
   },
 };
