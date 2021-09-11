@@ -37,13 +37,13 @@ export default {
         }
     },
     created(){
-        // const iasArr = this.generateArray(0);
-        // this.wiasArr = this.generateArray(this.wias);
-        // this.table = this.wiasArr.map(item => iasArr.map(ias => this.calculateFPA(item, ias)))
+        const iasArr = this.generateArray(0);
+        this.wiasArr = this.generateArray(this.wias);
+        this.table = this.wiasArr.map(item => iasArr.map(ias => this.calculateFPA(item, ias)))
         // console.log(this.table)
         console.log(this.calculateFPA(100, 0))
         // gearias包含wias, 變熊多200%ias?, motw也多了20%sias
-
+        // 120*x/ 120+x  => 80
     },
     methods:{
         calculateFPA(wias, otherIas){
@@ -54,12 +54,6 @@ export default {
             const delay = Math.floor(256*17/e1);
             const animSpeed = Math.floor(256*7/delay);
             const denominator = Math.floor(animSpeed*(100 + speedModifier)/100);
-            console.log({eias})
-            console.log({speedModifier})
-            console.log({e1})
-            console.log({delay})
-            console.log({animSpeed})
-            console.log({denominator})
             return Math.ceil(12*256/denominator)-1            
         },
         generateArray(begin){
