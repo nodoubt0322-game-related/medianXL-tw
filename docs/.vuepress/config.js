@@ -27,7 +27,7 @@ module.exports = {
       "/occultEffigies/",      
       "/eq/",
       "/trade/",      
-      // "/quest/",
+      "/quest/",
       "/105uber/",
       "/110uber/",
       "/115uber/",
