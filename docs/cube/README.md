@@ -171,15 +171,14 @@ Intensity 之油
 
 ## 秘境石
 
-- T1 到 T5 秘境石 + 奧術水晶 → 充能的秘境石
-- T6 到 T10 秘境石 + 奧術水晶 x 2 → 充能的秘境石
+- 秘境石 + 奧術水晶 → 充能的秘境石
 
 四個不同的 Star Chart Pieces → Completed Star Chart
 五個不同 Dream Fragments + Completed Star Chart + Dimensional Key= Upgraded Dimensional Key
 
 ## 護符相關
 
-- 相同的獎盃 x 25 → 獎盃碎片
+- 相同的獎盃 x 20 → 獎盃碎片
 - 相同的獎盃碎片 x3 → 獎盃
 
 ## 元素符文
